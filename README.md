@@ -37,7 +37,7 @@
 
 ### 🌸 Let's Connect!
 
-- 💌 [Email Me](studyhanh@gmail.com)
+- 💌 [Email Me](mailto:studyhanh@gmail.com)
 - 🌐 [GitHub Projects](https://github.com/hanhptm123)
 - 💖 Always learning, always sharing!
 
